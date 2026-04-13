@@ -8,4 +8,4 @@
 
 -   `npm run preview` - Starts a server at http://localhost:4173/ to test production build locally
 
-- jeg tester noget
+- test
