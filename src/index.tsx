@@ -4,7 +4,7 @@ import './style.css';
 import { Calculator } from './Calculator'; 
 
 export function App() {
-	const name = "Malene Laczek";
+	const name = "To You";
 	return (
 		<div
 			class="app"
